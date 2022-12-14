@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=kotakAngka
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ kotakAngka\ here.\r\n\r\n\ @author\ Dhafa\ Aryanda\r\n\ @version\ 11.0.11\r\n\ link\ presentasi\:\ https\://drive.google.com/file/d/1bIdzvEANWCb82fzKLm9jMggLHwQmsR7l/view?usp\=sharing\r\n
+comment1.params=
+comment1.target=kotakAngka()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ kotakAngka\r\n
+comment2.params=
+comment2.target=void\ buatKotak()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=int\ tambahSquirrel()
+comment4.params=tambahSquirrel
+comment4.target=int\ kesempatan(int)
+numComments=5
